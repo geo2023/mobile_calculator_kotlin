@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Calculator" parent="Theme.AppCompat">
+
+        <item name="colorPrimary">#431472</item>
+        <item name="colorPrimaryVariant">#340C4D</item>
+
+        <item name="colorOnPrimary">@color/white</item>
+
+
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+
+    </style>
+</resources>
